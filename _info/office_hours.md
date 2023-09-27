@@ -41,13 +41,13 @@ Jingtao Xia
 # Learning Assistants
 
 Johnson Chan
-* Lab Sections 12pm, 1pm
+* Lab Sections (SSMS 1301) 12pm, 1pm
 * Fridays 1pm - 3:30pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Tracy Sun
-* Lab Sections 2pm, 3pm
+* Lab Sections (SSMS 1301) 2pm, 3pm
 * Thursdays 1pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Emily Tian
-* Lab Sections 1pm, 2pm
+* Lab Sections (SSMS 1301) 1pm, 2pm
 * Mondays 2pm - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
