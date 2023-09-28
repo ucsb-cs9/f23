@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2023-09-28 11:00:00.00-7:00
 ---
 
-Recorded Lecture: [9_22_23](https://drive.google.com/file/d/1DRlHP6zWm11J2NigfE2r-COed9_k_3Bg/view?usp=drive_link)
+Recorded Lecture: [9_28_23](https://drive.google.com/file/d/1DRlHP6zWm11J2NigfE2r-COed9_k_3Bg/view?usp=drive_link)
 
 * Course webpage: [https://ucsb-cs9.github.io/f23/](https://ucsb-cs9.github.io/f23/)
 	* Please read and understand the syllabus: [https://ucsb-cs9.github.io/f23/info/syllabus/](https://ucsb-cs9.github.io/f23/info/syllabus/)
