@@ -49,5 +49,5 @@ Tracy Sun
 * Thursdays 1pm - 3pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
 
 Emily Tian
-* Lab Sections (SSMS 1301) 1pm, 2pm
+* Lab Sections (SSMS 1301) 2pm, 3pm
 * Mondays 2pm - 4pm (Trailer 936 [https://goo.gl/maps/LqegEHQB9Xoq67pS7](https://goo.gl/maps/LqegEHQB9Xoq67pS7))
