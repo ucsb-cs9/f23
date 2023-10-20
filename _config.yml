@@ -26,6 +26,7 @@ cal_dates: >
   [                                                                            
     {"label":"F23 1st day of instruction", "date":"2023-09-28" },
     {"label":"Academic Integrity Contract Due", "date":"2023-10-10" },
+    {"label":"F23 CS 9 MIDTERM (11am - 12:15pm)", "date":"2023-11-02" },
     {"label":"Veterans' Day", "date":"2022-11-10" },
     {"label":"Thanksgiving", "date":"2022-11-23" },
     {"label":"Thanksgiving", "date":"2022-11-24" },
