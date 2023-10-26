@@ -1,6 +1,6 @@
 ---
 num: "Lecture 9"
-desc: "Stacks, Queues, Deques"
+desc: "Stacks, Queues, Deques, Midterm Guide"
 ready: true
 lecture_date: 2023-10-26 11:00:00.00-7:00
 ---
@@ -180,3 +180,88 @@ class Deque:
 * addRear()     : O(n)
 * removeFront() : O(1)
 * removeRear()  : O(n)
+
+# Midterm Guide
+
+```
+Time:
+* In-person (ILP 2302), Thursday 11/2 11am - 12:15pm PST
+
+Logistics:
+* Bring a writing utensil and student ID
+* Please write legibly (if we can't read your answer, we can't grade it)
+* When leaving the room, you must hand in your exam and present your ID
+* Closed book (no notes / book / electronic devices)
+* TAs and I will be proctoring the exam. We can answer any CLARIFYING questions
+
+Possible Types of Questions:
+* True / False (if False, briefly state why (1 sentence))
+* Short Answer - Briefly define / state / describe / ...
+* Given some code, write the output / state the O-notation
+* Write code satisfying a specification
+* Given some partial algorithm, fill in the blank to make it work
+* Draw diagrams
+
+Midterm Topics:
+
+Will cover material from the beginning of the class up until the end of week 4's (10/26) lecture
+    * Linked Lists won't be asked on the midterm, but will be on the final exam
+
+Python Basics 
+- Types
+    * I don't expect students to know ALL Python basics, but do expect students to know
+    the ones we explicitly covered in lectures and/or assignments
+    * int, float, boolean, strings, lists, sets, dictionaries, ...
+    * conversion functions (int(), float(), str(), ...)
+    * mutable vs. immutable
+- Relational / logical operators (==, <, >, <=, >=, and, or, not, ...)
+- Python Lists
+    * Supporting methods (count, pop, append, insert, ...)
+    * List / string slicing [:]
+- Understanding under-the-hood functionality of lists and dictionaries
+- Strings
+    * Supporting methods (replace, split, find, ...)
+- Function definitions
+- Control Structures (if, else, elif, for, while, ...)
+
+Python Errors / Exceptions
+- Runtime vs. Syntax errors
+- Exception types (NameError, TypeError, ZeroDivisionError, ...)
+- Exception handling
+    * try / except / raise
+    * Flow of execution
+    * Passing exceptions to function / method caller(s) when not handled in try / except
+    * Multiple except blocks
+    * Handling Exceptions in an Inheritance hierarchy
+
+Object Oriented Programming
+- Defining classes and methods
+- constructors (defining / initializing default state)
+- Shallow vs. Deep equality (overloading __eq__ method)
+- Overloading operators (__str__, __add__, __le__, ...)
+- Inheritance
+    * Know method lookup for inheritance hierarchy
+    * implementation for inherited fields / methods
+    * overriding inherited methods
+    * calling super / base class(es) methods
+
+Testing
+- Test Driven Development (TDD)
+- pytest
+
+Algorithm Analysis and O-notation
+- Know how to derive O-notation for snippets of code
+
+Recursion
+- Implementation of recursive functions and O-notation analysis
+- Understanding how recursive algorithms are managed by the call stack
+
+Binary Search
+- Search for items in a SORTED list
+- Know the implementation (as covered in textbook / lecture) and O-notation
+
+Linear Data Structures
+- Know implementations (as covered in textbook / lecture) and O-notation
+for various functionality
+    * Stacks, Queues, Deques
+```
