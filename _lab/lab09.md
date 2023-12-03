@@ -6,7 +6,6 @@ desc: "Used Car Lot - Part Two"
 assigned: 2023-12-03 23:59:59.59-7
 due: 2023-12-10 23:59:59.59-7
 ---
-**Note: There will be no 24-hour late submission window for this lab**
 
 In this lab, you'll have the opportunity to practice:
 
@@ -14,7 +13,9 @@ In this lab, you'll have the opportunity to practice:
 * Further implementing Binary Search Tree (BST) data structure supporting removal functionality
 * Testing your functionality with pytest
 
-**Note:** This lab will be dependent on your previous lab. Certain tests from the previous lab will be autograded in this week's lab. It is important that you start this lab early so you can utilize our office hours to seek assistance / ask clarifying questions during the weekdays before the deadline if needed!
+**Notes:**
+* **There will be NO 24-hour late submission window for this lab.**
+* This lab will be dependent on your previous lab. Certain tests from the previous lab will be autograded in this week's lab. It is important that you start this lab early so you can utilize our office hours to seek assistance / ask clarifying questions during the weekdays before the deadline if needed!
 
 # Introduction
 
